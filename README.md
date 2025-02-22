@@ -1,9 +1,9 @@
 <h1 align="center">🍕Dominos - Predictive Purchase Order System🍕</h1>
 
-![GitHub repo size](https://img.shields.io/https://github.com/Avijit-Jana/Dominos-Predictive_Purchase_Order_System?style=plastic)
-![GitHub language count](https://img.shields.io/github/languages/count/https://github.com/Avijit-Jana/Dominos-Predictive_Purchase_Order_System?style=plastic)
-![GitHub top language](https://img.shields.io/github/languages/top/https://github.com/Avijit-Jana/Dominos-Predictive_Purchase_Order_System?style=plastic)
-![GitHub last commit](https://img.shields.io/github/last-commit/https://github.com/Avijit-Jana/Dominos-Predictive_Purchase_Order_System?color=red&style=plastic)
+![GitHub repo size](https://img.shields.io/github/repo-size/Avijit-Jana/Dominos-Predictive_Purchase_Order_System?style=plastic)
+![GitHub language count](https://img.shields.io/github/languages/count/Avijit-Jana/Dominos-Predictive_Purchase_Order_System?style=plastic)
+![GitHub top language](https://img.shields.io/github/languages/top/Avijit-Jana/Dominos-Predictive_Purchase_Order_System?style=plastic)
+![GitHub last commit](https://img.shields.io/github/last-commit/Avijit-Jana/Dominos-Predictive_Purchase_Order_System?color=red&style=plastic)
 
 ![Dominos](Assets/images/dominos.png)
 
@@ -39,14 +39,14 @@ Dominos wants to optimize the process of ordering ingredients by predicting futu
 - Check out the [**Sales Reporting**](https://github.com/Avijit-Jana/Dominos-Predictive_Purchase_Order_System/blob/main/Analysis_Report.md)
 - **Install Dependencies:** Ensure you have Python 3.7 or higher installed. Then, install the required Python packages using:
 
-```bash
-pip install -r requirements.txt
-```
+    ```bash
+    pip install -r requirements.txt
+    ```
 
 - Run the Streamlit Application: Start the Streamlit app with the following command:
 
-```bash
-python -m streamlit run Output/app.py
-```
+    ```bash
+    python -m streamlit run Output/app.py
+    ```
 
 <h3 align="middle">Developed By - Avijit Jana</h3>
