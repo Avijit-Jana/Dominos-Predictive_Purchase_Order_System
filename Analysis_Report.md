@@ -1,47 +1,43 @@
 <h1 align="center">📊 Analysis Report 📊</h1>
 
-
-## 📊 Daily Sales by Quantity
-Gain insights into daily sales trends with the following visualization:
-
-![Daily Sales](Assets/images/Daily_Sales.png)
-
----
-
-## 📆 Monthly Sales of Quantity (in Grams)
-Track the sales quantity in grams on a monthly basis:
-
-![Monthly Sales of Quantity in Grams](Assets/images/quantity%20in%20grams.png)
+## Weekly Sales Trend (Line Chart)
+- **Use**: Visualize the trend of weekly sales over time.
+- **Comment**: This line chart helps in identifying patterns and fluctuations in weekly sales.
+  
+![Weekly Sales Trend (Line Chart)](Assets/images/weekly%20sales%20(line).png)
 
 ---
+## Weekly Sales Trend (Bar Chart)
+- **Use**: Compare weekly sales figures side by side.
+- **Comment**: The bar chart provides a clear comparison of sales volume for each week.
 
-## 📉 Monthly Sales Seasonality
-Understand seasonal trends in monthly sales:
-
-![Monthly Sales](Assets/images/Monthly_Sales.png)
-
----
-
-## 📅 Weekly Sales
-Observe weekly fluctuations in sales data:
-
-![Weekly Sales](Assets/images/Weekly_Sales.png)
+![Weekly Sales Trend (Bar Chart)](Assets/images/weeky%20sales(bar).png)
 
 ---
+## Heatmap
+Quickly spot which pizzas have high/low sales in each week:
+- **Use**: Identify the popularity of different pizzas over time.
+- **Comment**: The heatmap highlights the best and worst-selling pizzas each week.
 
-## 📅 Weekday vs. Weekend Sales
-Compare sales performance on weekdays versus weekends:
-
-![Weekday vs Weekend Sales](Assets/images/Weekday%20vs%20Weekend%20Sales.png)
+![Heatmap](Assets/images/heatmap.png)
 
 ---
+## Weekly Sales with Rolling Mean
+Quickly spot which pizzas have high/low sales in each week:
+- **Use**: Analyze sales trends with a rolling mean to smooth out short-term variations.
+- **Comment**: This chart combines weekly sales data with a rolling mean for better trend analysis.
 
-## 🥗 Top 10 Ingredients by Total Quantity Used
-Discover the most used ingredients in terms of quantity:
+![Top 10 Ingredients by Total Quantity Used](Assets/images/rolling%20mean.png)
+
+---
+## Top 10 Pizzas by Total Quantity Used
+Quickly spot which pizzas have high/low sales in each week, hides all other pizzas:
+- **Use**: Focus on the top-performing pizzas in terms of quantity sold.
+- **Comment**: This chart highlights the top 10 pizzas, making it easier to identify the most popular items.
 
 ![Top 10 Ingredients by Total Quantity Used](Assets/images/top%2010.png)
 
 ---
-
 ### 📌 Summary
 This report provides key insights into sales trends based on daily, weekly, and monthly data, highlighting seasonal fluctuations and ingredient consumption patterns. These visualizations serve as a foundation for data-driven decision-making.
+
